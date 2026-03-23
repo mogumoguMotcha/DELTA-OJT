@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu_Scene.unity
+    guid: 727a63d92c129404885448170ad3c8c9
+  - enabled: 1
+    path: Assets/_Scenes/Loaders/Loading.unity
+    guid: 520ee6be69705994c8416f02ab5c6cd3
+  - enabled: 1
+    path: Assets/_Scenes/Loaders/Loading1.unity
+    guid: 7b631b12d5bc14846b78609cf1aa6c8e
+  - enabled: 1
+    path: Assets/_Scenes/IntermediateNewborn.unity
+    guid: e9bc5d3154f216e488147603e674813a
+  - enabled: 1
+    path: Assets/_Scenes/Loaders/Loading2.unity
+    guid: 722a59c609fe48a40bdd0e48723ac21e
+  - enabled: 1
+    path: Assets/_Scenes/Loaders/Loading3.unity
+    guid: c5fdc94df4857a14abc4a69256f648a2
+  - enabled: 1
+    path: Assets/_Scenes/Loaders/Loading4.unity
+    guid: 8c3665bd356933e41bac85cc1b9008e9
+  - enabled: 1
+    path: Assets/_Scenes/Loaders/Loading5.unity
+    guid: 6c01975efcc088d40a6fff7ded3b36fe
+  - enabled: 1
+    path: Assets/_Scenes/Loaders/Loading6.unity
+    guid: 5b791a845b7a6414bb0fc7914e76e14a
+  - enabled: 1
+    path: Assets/_Scenes/Pre-Assessment.unity
+    guid: 18c2e39b5b68e184288811bb0758896c
+  - enabled: 1
+    path: Assets/_Scenes/ShouldersAndBody.unity
+    guid: f8f9d768fc62b7d4f9904d52b3dd57a0
+  - enabled: 1
+    path: Assets/_Scenes/First_Scene.unity
+    guid: 11c4f5d0299196d4f89e00004cfde9fa
+  - enabled: 1
+    path: Assets/_Scenes/DeliveryoftheBaby.unity
+    guid: fe62f808e17cfa94aa96ee40843c41f1
+  - enabled: 1
+    path: Assets/_Scenes/DeliveryofPlacenta.unity
+    guid: 352e6a90e58928044ba866ce02adb667
+  - enabled: 1
+    path: Assets/_Scenes/AssessmentProcedure.unity
+    guid: 2a7ba096404c31b458be39108604cfe4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c2a23bff2e93e4b4eb93334ac7bd0458, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de3b68892a71fbf4aa7dd49adaa70dfd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3f866ec708b1f5d41812f7a2c7b4a69b, type: 2}
