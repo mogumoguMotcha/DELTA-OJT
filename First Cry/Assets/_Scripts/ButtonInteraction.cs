@@ -1,7 +1,6 @@
 using System;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
-// Import XR Toolkit for XR components
 using UnityEngine.XR.Interaction.Toolkit.Interactables; // For interaction events
 
 namespace Delivery_Room.Script

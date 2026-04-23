@@ -7,7 +7,7 @@ namespace Delivery_Room.Script
         private ScoringManager _scoringManager;
 
         // Reference to the water particle system
-        [SerializeField] private ParticleSystem waterParticleSystem;  // Drag your water particle system here in the Inspector
+        [SerializeField] private ParticleSystem waterParticleSystem;  // Drag water particle system here in the Inspector
 
         private bool _isWaterOn; // Track the state of the water (on/off)
 
@@ -15,7 +15,7 @@ namespace Delivery_Room.Script
         void Start()
         {
             // Find the ScoringManager in the scene using the updated method
-            _scoringManager = UnityEngine.Object.FindFirstObjectByType<ScoringManager>();
+            _scoringManager = UnityEngine.Object.FindAnyObjectByType<ScoringManager>();
             if (_scoringManager == null)
             {
                 Debug.LogError("ScoringManager not found in the scene!");

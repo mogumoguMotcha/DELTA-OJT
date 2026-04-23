@@ -49,10 +49,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PorjectCore\Samples\XR Interaction Toolkit\3.1.2\Hands Interaction Demo\Editor\Scripts\HandsSampleProjectValidation.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.2\Hands Interaction Demo\Editor\Scripts\HandsSampleProjectValidation.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\PorjectCore\Samples\XR Interaction Toolkit\3.1.2\Hands Interaction Demo\Editor\HandsInteractionDemo.Editor.asmdef" />
+    <None Include="Assets\Samples\XR Interaction Toolkit\3.1.2\Hands Interaction Demo\Editor\HandsInteractionDemo.Editor.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1199,12 +1199,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">

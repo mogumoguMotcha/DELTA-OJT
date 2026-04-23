@@ -1,9 +1,10 @@
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 namespace Delivery_Room.Script
 {
-    public class SceneManagerScript : MonoBehaviour
+    public class SceneLoader: MonoBehaviour
     {
         public void LoadScene(string sceneName)
         {
