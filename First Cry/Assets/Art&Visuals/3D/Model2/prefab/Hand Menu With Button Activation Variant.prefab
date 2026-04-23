@@ -8,14 +8,106 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2874293065965744967, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+    - target: {fileID: 26439758842499310, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 86292367520378153, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 419332741009239258, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_Name
+      value: Panel
+      objectReference: {fileID: 0}
+    - target: {fileID: 621439360843561230, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 912128813105657057, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 1103682497482558708, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 1545736017571251838, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 2158021377047336403, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2487472024315970028, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_Name
+      value: Logo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2777079065741287828, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 2874293065965744967, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2927690825240892982, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 3176685074554753052, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3355425423671759194, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3479683809477906395, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
       propertyPath: m_Name
       value: Hand Menu With Button Activation Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3700148229865149539, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 3983557076633827820, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 4985963930208853041, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 5437387062738026153, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487908591915491543, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6653234669814178138, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6693774161787652122, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_Name
+      value: Instructions
+      objectReference: {fileID: 0}
+    - target: {fileID: 6860902002828146085, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_Name
+      value: Header
+      objectReference: {fileID: 0}
+    - target: {fileID: 7495310402466113541, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7523957323591335620, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     - target: {fileID: 7612000755431106584, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.0047
@@ -56,6 +148,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8090306953804278653, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8095615597048397071, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8218608164515980836, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 8604981233045122032, guid: c60ca5d166f07ed439d0a1f0cf8a4a57, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

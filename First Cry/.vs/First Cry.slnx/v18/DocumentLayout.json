@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\documents\\unity\\delta-ojt\\first cry\\assets\\_scripts\\faucetinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\faucetinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\documents\\unity\\delta-ojt\\first cry\\assets\\_scripts\\radialloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\radialloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\documents\\unity\\delta-ojt\\first cry\\assets\\_scripts\\buttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\buttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\documents\\unity\\delta-ojt\\first cry\\assets\\_scripts\\core\\scoringsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\core\\scoringsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ButtonInteraction.cs",
-              "DocumentMoniker": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\ButtonInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\ButtonInteraction.cs",
-              "ToolTip": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\ButtonInteraction.cs",
-              "RelativeToolTip": "Assets\\_Scripts\\ButtonInteraction.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T02:54:48.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RadialLoader.cs",
-              "DocumentMoniker": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\RadialLoader.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\RadialLoader.cs",
-              "ToolTip": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\RadialLoader.cs*",
-              "RelativeToolTip": "Assets\\_Scripts\\RadialLoader.cs*",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T02:47:27.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FaucetInteraction.cs",
-              "DocumentMoniker": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\FaucetInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scripts\\FaucetInteraction.cs",
-              "ToolTip": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\FaucetInteraction.cs*",
-              "RelativeToolTip": "Assets\\_Scripts\\FaucetInteraction.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Title": "ScoringSystem.cs",
+              "DocumentMoniker": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\Core\\ScoringSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Core\\ScoringSystem.cs",
+              "ToolTip": "D:\\Documents\\Unity\\DELTA-OJT\\First Cry\\Assets\\_Scripts\\Core\\ScoringSystem.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Core\\ScoringSystem.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwCQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T16:55:24.906Z",
+              "WhenOpened": "2026-04-23T08:21:45.704Z",
               "EditorCaption": ""
             }
           ]
